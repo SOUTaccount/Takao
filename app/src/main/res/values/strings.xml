@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TakaoTakao</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Types">
+        <item>Pizza</item>
+        <item>Wok</item>
+        <item>Pasta</item>
+        <item>Sushi</item>
+        <item>Rolli</item>
+        <item>Set</item>
+        <item>Akciy</item>
+    </string-array>
+    <string-array name="Pizza">
+        <item>Balaneza</item>
+        <item>Margherita</item>
+        <item>Peperoni</item>
+        <item>Marinara</item>
+    </string-array>
+    <string-array name="PricePizza">
+        <item>750p</item>
+        <item>620p</item>
+        <item>555p</item>
+        <item>432p</item>
+    </string-array>
+</resources>
